@@ -1,1 +1,2 @@
-web: bin/hubot -a irc -n Foobot
+web: bin/hubot -a campfire -n hubot
+
